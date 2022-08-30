@@ -1,3 +1,0 @@
-planes = ['jet', 'propeler', 'passenger']
-for plane in pkanes:
-    print(f"{plane.title()}, Great!")
